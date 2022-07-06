@@ -1,0 +1,70 @@
+[
+  {
+    "hour": 7,
+    "number_of_times": 15
+  },
+  {
+    "hour": 8,
+    "number_of_times": 92
+  },
+  {
+    "hour": 9,
+    "number_of_times": 150
+  },
+  {
+    "hour": 10,
+    "number_of_times": 84
+  },
+  {
+    "hour": 11,
+    "number_of_times": 157
+  },
+  {
+    "hour": 12,
+    "number_of_times": 104
+  },
+  {
+    "hour": 13,
+    "number_of_times": 161
+  },
+  {
+    "hour": 14,
+    "number_of_times": 113
+  },
+  {
+    "hour": 15,
+    "number_of_times": 126
+  },
+  {
+    "hour": 16,
+    "number_of_times": 156
+  },
+  {
+    "hour": 17,
+    "number_of_times": 172
+  },
+  {
+    "hour": 18,
+    "number_of_times": 91
+  },
+  {
+    "hour": 19,
+    "number_of_times": 140
+  },
+  {
+    "hour": 20,
+    "number_of_times": 229
+  },
+  {
+    "hour": 21,
+    "number_of_times": 153
+  },
+  {
+    "hour": 22,
+    "number_of_times": 178
+  },
+  {
+    "hour": 23,
+    "number_of_times": 80
+  }
+]
