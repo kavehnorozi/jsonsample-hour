@@ -1,69 +1,86 @@
 [
   {
+    "id":1,
     "hour": 7,
     "number_of_times": 15
   },
   {
+    "id":2,
     "hour": 8,
     "number_of_times": 92
   },
   {
+    "id":3,
     "hour": 9,
     "number_of_times": 150
   },
   {
+    "id":4,
     "hour": 10,
     "number_of_times": 84
   },
   {
+    "id":5,
     "hour": 11,
     "number_of_times": 157
   },
   {
+    "id":6,
     "hour": 12,
     "number_of_times": 104
   },
   {
+    "id":7,
     "hour": 13,
     "number_of_times": 161
   },
   {
+    "id":8,
     "hour": 14,
     "number_of_times": 113
   },
   {
+    "id":9,
     "hour": 15,
     "number_of_times": 126
   },
   {
+    "id":10,
     "hour": 16,
     "number_of_times": 156
   },
   {
+    "id":11,
     "hour": 17,
     "number_of_times": 172
   },
   {
+    "id":12,
     "hour": 18,
     "number_of_times": 91
   },
   {
+    "id":13,
     "hour": 19,
     "number_of_times": 140
   },
   {
+    "id":14,
     "hour": 20,
     "number_of_times": 229
   },
   {
+    "id":15,
     "hour": 21,
     "number_of_times": 153
   },
   {
+    "id":16,
     "hour": 22,
     "number_of_times": 178
   },
   {
+    "id":17,
     "hour": 23,
     "number_of_times": 80
   }
